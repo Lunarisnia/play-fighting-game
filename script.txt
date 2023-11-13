@@ -1,9 +1,5 @@
 Chapter 1: What is fighting game
-Ini game yang mungkin boomer2 disini familiar tapi zoomer pada engga.
-game ini karakteristiknya biasanya ada dua karakter, timer dan darah.
-dan objektifnya itu ngabisin darah satu sama lain sampe ada yang KO.
-
-itu kata orang pinter, kalo kata gw si fighting game itu game saling gebuk ampe mati.
+Game ini karakteristiknya biasanya ada timer, darah sama dua karakter saling pukul sampe KO.
 
 Fighting Game itu game yang udah lumayan tua dan salah satu pioneer dari
 genre fighting ini Street Fighter. Yang rilis di tahun 1987 di tahun segitu
@@ -59,8 +55,8 @@ tapi the moment lu udah mulai bisa menang beberapa match, the dopamine hit can't
 tapi lets say lu ga menang2, berarti lu perlu waktu buat latihan dulu dan beberapa hal yang perlu lu latih itu:
 
 - Eksekusi : ini seberapa lincah tangan lu buat ngelakuin combo2, ga perlu panjang combo 3 hit aja udah cukup.
-- Blocking : Jago ngeblock serangan musuh itu strategi paling efektif buat lawan musuh yang overaggresive karna kalo mereka ga berhasil nyerang lu mereka yang bakal frustasi sendiri
-dan ini tied ke point yang terakhir yaitu
+- Blocking : Jago ngeblock serangan musuh itu strategi paling efektif buat lawan musuh yang overaggresive karna kalo mereka ga berhasil nyerang lu mereka yang
+bakal frustasi sendiri dan ini tied ke point yang terakhir yaitu
 - Psychological Conditioning/Mind Game : yes, psikologi masuk ke fighting game, karna di level menengah keatas fighting game itu bukan sekedar asal pencet sampe mati aja
 tapi dia udah jadi kayak fast paced chess dimana lu harus predict atau surprise lawan lu dengan sebuah gerakan, ato condition lawan lu sampe dia ga gerak karna overwhelmed
 dari decision makinglu, contohnya itu di match ini, org ini di dicondition sampe dia kena grab berkali2 sampe mati, padahal ngelepasin diri dari grab itu gampang
