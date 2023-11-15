@@ -110,4 +110,5 @@ export default makeScene2D(function* (view) {
     )
   );
   yield* waitFor(1.5);
+  yield* beginSlide("Slide One");
 });
